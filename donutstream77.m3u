@@ -30,6 +30,11 @@ https://entertain.mx
 https://dish.akamaized.net/Content/DASH/Live/channel(aztecacorazon)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0a4f1cc1d2740fbe0ba9af9745f10a:21c4b13e0c9ffbae8a269e569560cf45
+#EXTINF:-1 ch-number="207" tvg-id="PAS.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/pasiones.png" group-title="ENTRETENIMIENTO", PASIO
+https://dish.akamaized.net/Content/DASH/Live/channel(pasioneshd)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
 #EXTINF:-1 ch-number="214" tvg-id="TNTS.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/214.png" group-title="ENTRETENIMIENTO", TNTSRS
 https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
@@ -335,6 +340,11 @@ https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021-f48
 #EXTINF:-1 ,------- INFORMACIÓN -------
 https://info.mx
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c93f4babaaabc0da1d8b24828c3ff7:88e2ac75ce14cd5fbfb79083f37107dd
+#EXTINF:-1 ch-number="156" tvg-id="tm.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/telemundo_int.png" group-title="INFORMACIÓN", TMINT
+https://dish.akamaized.net/Content/DASH/Live/channel(telemundohd)/variant.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb72c9e7401ffa4cc0ab3936cb869751:e45142790c822b02f6c2a77f5a40de66
 #EXTINF:-1 ch-number="350" tvg-id="CNN.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/350.png" group-title="INFORMACIÓN", CNNES
 https://dish.akamaized.net/Content/DASH/Live/channel(cnn)/variant.mpd
@@ -346,7 +356,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cnninternacional)/variant.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78e5edc6768e248bb933f4703a6cef27:5208e7e0187c9ef4cb79c957c4793194
-#EXTINF:-1 ch-number="354" tvg-id="TFOR.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/352.png" group-title="INFORMACIÓN", GPFOR
+#EXTINF:-1 ch-number="354" tvg-id="TFOR.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/352.png" group-title="INFORMACIÓN", TELEF
 https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
