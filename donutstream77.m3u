@@ -356,7 +356,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cnninternacional)/variant.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78e5edc6768e248bb933f4703a6cef27:5208e7e0187c9ef4cb79c957c4793194
-#EXTINF:-1 ch-number="354" tvg-id="TFOR.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/352.png" group-title="INFORMACIÓN", TELEF
+#EXTINF:-1 ch-number="354" tvg-id="TFOR.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png" group-title="INFORMACIÓN", TELEF
 https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
