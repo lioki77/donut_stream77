@@ -101,7 +101,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbd1db8e8d7cb678ecb49df1bada02c5:8d404c0e150855e4784ce016b3d0170c
-#EXTINF:-1 ch-number="232" tvg-id="Aswi.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/232.png" group-title="SERIES Y PELÍCULAS", ASWIM
+#EXTINF:-1 ch-number="232" tvg-id="ADULTSWIM.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/232.png" group-title="SERIES Y PELÍCULAS", ASWIM
 https://dish.akamaized.net/Content/DASH/Live/channel(adultswim)/variant.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
